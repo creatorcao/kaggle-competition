@@ -3,9 +3,11 @@
 1. [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/281347)
 
     - [**code**](https://github.com/FirasBaba/rsna-resnet10)
-    - [**data**](https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/data)
 
 2. [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)
 
     - [**code**](https://www.kaggle.com/code/andradaolteanu/melanoma-competiton-aug-resnet-effnet-lb-0-91?scriptVersionId=38656777)
-    - [**data**](https://www.kaggle.com/competitions/siim-isic-melanoma-classification/data)
+    
+3. [Extreme Weather Forecasts](https://www.kaggle.com/competitions/widsdatathon2023)
+
+   - machine learning model
