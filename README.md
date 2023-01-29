@@ -9,7 +9,5 @@
     - [**code**](https://www.kaggle.com/code/andradaolteanu/melanoma-competiton-aug-resnet-effnet-lb-0-91?scriptVersionId=38656777)
     
 3. [Extreme Weather Forecasts](https://www.kaggle.com/competitions/widsdatathon2023)
-
-   - machine learning model
    
    - time series
