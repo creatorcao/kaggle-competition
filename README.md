@@ -9,3 +9,6 @@
     - [**code**](https://www.kaggle.com/code/andradaolteanu/melanoma-competiton-aug-resnet-effnet-lb-0-91?scriptVersionId=38656777)
     
 
+3. Machine learning 
+
+    - Time seiries 
