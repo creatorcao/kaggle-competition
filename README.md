@@ -11,4 +11,4 @@
 
 3. Machine learning 
 
-    - Time seiries 
+    - Time series 
