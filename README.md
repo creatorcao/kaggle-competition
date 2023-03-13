@@ -7,6 +7,7 @@
 2. [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)
 
     - [**code**](https://www.kaggle.com/code/andradaolteanu/melanoma-competiton-aug-resnet-effnet-lb-0-91?scriptVersionId=38656777)
+    - [**2nd place solution**](https://github.com/i-pan/kaggle-melanoma)
     
 
 3. Machine learning 
