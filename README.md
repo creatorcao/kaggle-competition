@@ -2,7 +2,8 @@
 
 1. [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/discussion/281347)
 
-    - [**code**](https://github.com/FirasBaba/rsna-resnet10)
+    - [**1st place solution**](https://github.com/FirasBaba/rsna-resnet10)
+    - [**2nd place solution**](https://www.kaggle.com/code/minhnhatphan/rnsa-21-cnn-lstm-train/notebook)
 
 2. [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)
 
