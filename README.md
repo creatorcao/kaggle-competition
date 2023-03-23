@@ -12,5 +12,5 @@
 3. [RSNA Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection)
     - [**1st place solution**](https://github.com/SeuTao/RSNA2019_Intracranial-Hemorrhage-Detection)
 
-4. Machine learning 
+4. Focasting 
     - [Time series](https://www.kaggle.com/code/eamini/firstplacenb-wids-2023)
