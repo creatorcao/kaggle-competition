@@ -16,4 +16,4 @@
 
 5. [Recommedation](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
 
-6. [NLP](https://www.kaggle.com/c/nlp-getting-started/overview)
+6. [Natural Language Processing](https://www.kaggle.com/c/nlp-getting-started/overview)
