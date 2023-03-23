@@ -11,6 +11,7 @@
     
 3. [RSNA Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection)
     - [**1st place solution**](https://github.com/SeuTao/RSNA2019_Intracranial-Hemorrhage-Detection)
+    - [**2nd place solution**](https://github.com/darraghdog/rsna)
 
 4. [Time series](https://www.kaggle.com/code/eamini/firstplacenb-wids-2023)
 
