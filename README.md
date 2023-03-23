@@ -14,3 +14,6 @@
 
 4. Focasting 
     - [Time series](https://www.kaggle.com/code/eamini/firstplacenb-wids-2023)
+
+5. Recommedation
+    - [Netflix](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
