@@ -12,8 +12,8 @@
 3. [RSNA Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection)
     - [**1st place solution**](https://github.com/SeuTao/RSNA2019_Intracranial-Hemorrhage-Detection)
 
-4. Focasting 
-    - [Time series](https://www.kaggle.com/code/eamini/firstplacenb-wids-2023)
+4. [Time series](https://www.kaggle.com/code/eamini/firstplacenb-wids-2023)
 
-5. Recommedation
-    - [Netflix](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
+5. [Recommedation](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
+
+6. [NLP](https://www.kaggle.com/c/nlp-getting-started/overview)
